@@ -1,4 +1,4 @@
-# Market Maker Simulator - ETH/USDC (ASXN Hiring Assignment)
+# Market Maker Simulator - ETH/USDC
 
 ## Overview
 
